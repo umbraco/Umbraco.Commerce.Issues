@@ -12,7 +12,7 @@ Vendr is the Umbraco v8+ eCommerce solution built with simplicity at heart, by t
 
 Vendr is currently only available as a preview release which can be accessed via the [Demo Store repository](https://github.com/vendrhub/vendr-demo-store) along with instructions on how to get it up and running.
 
-Official release is not due untill March 2020.
+Official release is not due untill **March 2020**.
 
 ## About This Repository
 
