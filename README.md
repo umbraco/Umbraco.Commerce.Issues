@@ -26,4 +26,4 @@ The purpose of this repository is to act as a central hub for reporting issues w
 
 ## Copyright
 
-Copyright © 2019 Outfield Digital. All rights reserved.
+Copyright © 2019 Outfield Digital Ltd. All rights reserved.
