@@ -15,6 +15,7 @@ The purpose of this repository is to act as a central hub for reporting issues w
 ## Useful Links
 
 * [Documentation](https://vendr.net/docs/)
+* [Changelog](https://vendr.net/docs/core/changelog/)
 * [Our Umbraco Page](https://our.umbraco.com/packages/website-utilities/vendr/)
 * [Support Forum](https://our.umbraco.com/packages/website-utilities/vendr/vendr-support/)
 * [Twitter](https://twitter.com/heyvendr)
