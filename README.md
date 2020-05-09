@@ -1,4 +1,4 @@
-# [Vendr](https://getvendr.net) &middot; [![NuGet](https://img.shields.io/nuget/v/Vendr.svg?style=modern&label=nuget)](https://www.nuget.org/packages/Vendr/) [![Twitter](https://img.shields.io/twitter/follow/Vendr.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=heyvendr)
+# [Vendr](https://getvendr.net) &middot; [![NuGet](https://img.shields.io/nuget/v/vendr.svg?style=modern&label=nuget)](https://www.nuget.org/packages/vendr/) [![Twitter](https://img.shields.io/twitter/follow/heyvendr.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=heyvendr)
 
 Vendr is the Umbraco v8+ eCommerce solution built with simplicity at heart, by the team at [Outfield Digital](https://outfield.digital), the same team behind [Tea Commerce](https://teacommerce.net) for Umbraco v7.
 
