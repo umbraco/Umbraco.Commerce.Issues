@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Additional context**
-Add any other context about the problem here.
+Are you using any Vendr add-on packages such as Vendr.Checkout? or is there any other contextual information that might help. 
 
 **Vendr version:**
 The version of Vendr you are using.
