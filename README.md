@@ -1,7 +1,8 @@
 # [Umbraco Commerce](https://umbraco.com/products/umbraco-commerce) &middot; [![NuGet](https://img.shields.io/nuget/v/Umbraco.Commerce.svg?style=modern&label=nuget)](https://www.nuget.org/packages/Umbraco.Commerce/) 
 
-Umbraco Commerce is the only Umbraco HQ supported commerce package that lets you sell how you want to sell.
+Umbraco Commerce is the only [Umbraco HQ](https://umbraco.com/products/umbraco-commerce) supported commerce package that lets you sell how you want to sell.
 
+![Umbraco Commerce](assets/ss_orders.png)
 
 ## About This Repository
 
@@ -9,6 +10,7 @@ The purpose of this repository is to act as a central hub for reporting issues w
 
 ## Useful Links
 
+* [Product Page](https://umbraco.com/products/umbraco-commerce)
 * [Documentation](https://docs.umbraco.com/umbraco-commerce/)
 * [Support](mailto:support@umbraco.com)
 * [Discord](https://discord.gg/PSFDAmsG)
