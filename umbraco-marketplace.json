@@ -1,0 +1,60 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AuthorDetails": {
+    "Name": "Umbraco HQ",
+    "Description": "Umbraco HQ",
+    "Url": "https://umbraco.com",
+    "ImageUrl": "https://avatars.githubusercontent.com/u/1419552?s=200&v=4"
+  },
+  "Category": "Commerce",
+  "LicenseTypes": [
+    "Subscription"
+  ],
+  "DocumentationUrl": "https://docs.umbraco.com/umbraco-commerce/",
+  "IssueTrackerUrl": "https://github.com/umbraco/Umbraco.Commerce.Issues/issues",
+  "PackageType": "Package",
+  "PackagesByAuthor": [
+    "Umbraco.Forms",
+    "Umbraco.Workflow",
+    "Umbraco.Deploy.OnPrem"
+  ],
+  "AddOnPackagesRequiredForUmbracoCloud": [
+    "Umbraco.Commerce.Deploy"
+  ],
+  "RelatedPackages": [
+    {
+      "PackageId": "Umbraco.Commerce.Checkout",
+      "Description": "A drop in checkout solution for Umbraco Commerce."
+    },
+    {
+      "PackageId": "Umbraco.Commerce.Deploy",
+      "Description": "An Umbraco Deploy provider to help with deploying Umbraco Commerce."
+    }
+  ],
+  "Screenshots": [
+    {
+      "ImageUrl": "https://umbraco.com/media/22yjmhqd/products_screenshots.png",
+      "Caption": "Umbraco Commerce product nodes"
+    },
+    {
+      "ImageUrl": "https://umbraco.com/media/wz5bd4xt/order_list.png",
+      "Caption": "Umbraco Commerce order list"
+    },
+    {
+      "ImageUrl": "https://umbraco.com/media/pa4gfuk4/order_details.png",
+      "Caption": "Umbraco Commerce order details"
+    },
+    {
+      "ImageUrl": "https://umbraco.com/media/0zrl2j2f/store_analytics.png",
+      "Caption": "Umbraco Commerce store analytics"
+    },
+    {
+      "ImageUrl": "https://umbraco.com/media/o20gkvv2/discounts_list_screenshot.png",
+      "Caption": "Umbraco Commerce discounts engine"
+    }
+  ],
+  "Tags": [
+    "umbraco",
+    "ecommerce"
+  ]
+}
