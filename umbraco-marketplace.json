@@ -33,24 +33,36 @@
   ],
   "Screenshots": [
     {
-      "ImageUrl": "https://umbraco.com/media/22yjmhqd/products_screenshots.png",
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_products.png",
       "Caption": "Umbraco Commerce product nodes"
     },
     {
-      "ImageUrl": "https://umbraco.com/media/wz5bd4xt/order_list.png",
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_orders.png",
       "Caption": "Umbraco Commerce order list"
     },
     {
-      "ImageUrl": "https://umbraco.com/media/pa4gfuk4/order_details.png",
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_order_details.png",
       "Caption": "Umbraco Commerce order details"
     },
     {
-      "ImageUrl": "https://umbraco.com/media/0zrl2j2f/store_analytics.png",
-      "Caption": "Umbraco Commerce store analytics"
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_cart_editing.png",
+      "Caption": "Umbraco Commerce cart editing"
     },
     {
-      "ImageUrl": "https://umbraco.com/media/o20gkvv2/discounts_list_screenshot.png",
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_discounts.png",
       "Caption": "Umbraco Commerce discounts engine"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_gift_cards.png",
+      "Caption": "Umbraco Commerce gift cards engine"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_dashboard.png",
+      "Caption": "Umbraco Commerce store dashboard"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.Commerce.Issues/main/assets/ss_analytics.png",
+      "Caption": "Umbraco Commerce analytics"
     }
   ],
   "Tags": [
