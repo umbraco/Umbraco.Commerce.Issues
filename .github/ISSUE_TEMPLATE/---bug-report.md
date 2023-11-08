@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Additional context**
-Are you using any Vendr add-on packages such as Vendr.Checkout? or is there any other contextual information that might help. 
+Are you using any Umbraco Commerce add-on packages such as Umbraco.Commerce.Checkout? or is there any other contextual information that might help. 
 
-**Vendr version:**
-The version of Vendr you are using.
+**Umbraco Commerce version:**
+The version of Umbraco Commerce you are using.
