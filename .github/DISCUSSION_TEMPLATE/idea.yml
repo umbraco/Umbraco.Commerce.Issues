@@ -1,6 +1,4 @@
 ---
-name: 💡 Feature Request
-description: Suggest a new feature or improvement for Umbraco Commerce or related components.
 labels: ["idea"]
 body:
   - type: markdown
