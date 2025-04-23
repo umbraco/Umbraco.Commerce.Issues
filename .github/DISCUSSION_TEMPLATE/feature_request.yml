@@ -1,0 +1,41 @@
+---
+name: 💡 Feature Request
+description: Suggest a new feature or improvement for Umbraco Commerce or related components.
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new feature or improvement!
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Which component is this idea for?"
+      options:
+        - Umbraco Commerce (Core)
+        - Payment Provider
+        - Shipping Provider
+        - Sales Tax Provider
+        - Deploy
+        - Checkout
+        - Cart
+        - Demo Store
+        - Other / Not sure
+      description: "Pick the area where you'd like to see improvements"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Describe your idea"
+      placeholder: "What should this feature do? Why is it useful? Who would benefit?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      description: "Explain the problem you're trying to solve, or how this idea fits in."
