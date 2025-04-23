@@ -7,7 +7,7 @@ body:
   id: component
   attributes:
     label: "Which component is this issue related to?"
-    description: "Select the area where you've encountered the issue"
+    description: "Select the product/add-on type that is experiencing this issue"
     options:
       - Umbraco Commerce (Core)
       - Payment Provider
