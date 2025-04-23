@@ -1,11 +1,6 @@
 ---
 labels: ["idea"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thank you for suggesting a new feature or improvement!
-
   - type: dropdown
     id: component
     attributes:
